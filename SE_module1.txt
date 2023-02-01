@@ -1,0 +1,91 @@
+1)what is software?
+
+->Software is a set of programs that allows the users to perform a well defined function or some specified task.
+->Software is a collection of computer programs and related data that provides the instructions for telling a computer what to do and how to do.
+->There are two main types of software are system Software and Application software.
+.System software is software designed to provide a platform for other software.
+.Application software is a program or group of programs designed for end users.
+->Software is typically stored on an external long term memory device such as hard drive or magnetic disk.
+->System software includes Microsoft windows,Apple's IOS,Android,linux,etc.
+->Application software includes MS word,iwork pages.notes,etc.
+
+ .what is software engineering?
+
+->Software engineering is a detailed study of engineering to the desing development and maintainance of software.
+->Software engineering ensures that the application is built consistently,correctly,on time and on budget and within requirements.
+->It is used to change in user requirements and enviornment on which application is supposedto be working.
+->It applies the principle of software engineering to the design,development,maintenance,testing and evaluation of computer software.
+->Example of software engineering includes computer language programming and coding,software testing,database mangement,etc.
+
+
+2)Types of software:-
+
+->There are mainly two types of software:-(a)System software
+                                          (b)Application software
+
+(a)System software:-System software is software designed to provide a platform for other software.
+                eg:-Microsoft windows,Apple's IOS,Android,linux,etc.
+
+(b)Application software:-Application software is a program or group of programs designed for end users. 
+                eg:-MS word,iwork pages.notes,etc. 
+
+
+3)Explain phases of SDLC:-
+
+->Software development life cycle is a framework that defines the steps involved in the development of software at each phase.
+->There are seven phases in SDLC :
+    .Planning
+    .analysis
+    .design
+    .development
+    .testing
+    .implementation
+   &maintenance
+
+i)planning:-In planning stage the developers will plans for the upciming project.
+ii)Analysis:-After collecting requirements they are analys using various methods and diagrams.
+iii)Design:-In this step the detail design is created using proper validation for the whole system. 
+iv)Development:-Each and every module is program/develop individually by the programmer by using specified technology.
+v)Testing:-In this step the system is been tested by the testers
+vi)Implementation:-The tested system is implemented on to some hardware platform by the development team.
+vii)Maintenance:-The SDLC doesnt end when software reaches the market,the developers keeps maintainance of software to solve further errors.
+
+
+4)what is programming?
+->A program is a list of instructions that is executed by a computer to accomplish a particular task.
+
+.Types of programming languages:-
+
+->5 major types of programming language:-
+
+i)procedural programming language:-A procedual language follows a sequence of statements or commands in order to archieve a desired output.
+                                                         eg:-C,C++,pascal,etc.
+
+ii)Functional programming language:-Functional language focus on the output of mathematical functions and evolutions.
+                                                          eg:-scala,haskell,f#,etc.
+
+iii)object oriented programming:-In this programming language, programs are divided into small parts called object.
+                                                  eg:-Java,python,C++,etc.
+
+iv)scripting languages:-programmers use scripting languages to automate repetitve tasks,manage dynamic web content or support processes in larger applications.
+                                  eg:-PHP,python,ruby,etc.
+
+v)logic programming languages:-logic programming language expresses a series of facts and rules to instruct the computer on how to make decisions.
+                                                  eg:-Prologs,datalogs,etc.
+
+5)what is DFD?
+
+->It is a graphical representation representation to describe a information system.
+->It uses various symbols to show how system transforms input data into useful information.
+
+6)What is flow chart?
+
+->A flowchart is a type of diagram that represents a workflow or process.
+->Flowchart is combination of two words i.e. flow and chart. Flow indicates the direction of processing that take place in the program.Chart consist of different symbols to display information about any program.
+
+7)What is use case diagram?
+
+->Use case diagram provides a simple fast way to decide and describe the purpose of the project.
+->it is use to identify the primary element and processess of the system.
+->The primary elements are called actor and the process are called use-cases.
+->It shows which actor interact with the use-case.
