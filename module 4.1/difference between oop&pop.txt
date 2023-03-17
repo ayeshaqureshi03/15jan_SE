@@ -1,0 +1,19 @@
+Different between oop & pop:-
+
+*oop:-
+->oop is object oriented programming.
+->the program is divided into objects.
+->Bottom-up approach.
+->Data can be hidden using encapsulation.
+->overloading function is possible.
+->the existing code can be reused.
+->examples:-c,pascal,fortran.
+
+*pop:-
+->pop is procedure oriented programming.
+->the program is divided into function.
+->Top-down approach.
+->No data hiding data is accesible globally.
+->overloading is not possible.
+->no code reusability.
+->examples:-c++,java,python.

@@ -1,0 +1,14 @@
+oop concepts:-
+
+->there are four pillars in oop
+1)Abstraction:- Abstract classes and interfaces are used to hide the internal details and
+ show the functionality.
+
+2)Inheritance:-An object using the methods and properties of an existing object is 
+called inheritance
+
+3)Encapsulation:-Data is secured with encapsulation and binds the methods and
+attributes together.
+
+4)Polymorphism:-With polymorphism an object can function in multiple ways.
+Ex:-method overloading&method overiding.
